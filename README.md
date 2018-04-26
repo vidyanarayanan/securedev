@@ -1,5 +1,6 @@
-# secure development good practices 
+# Secure development good practices 
 
+# Vulnerabilities to watch out for
 ## Injections
 ### DB Query Injection
 #### Mitigation:
